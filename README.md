@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/81884585?v=4" />
+   <h3 align="center">Hi! 👋 I'm Rafael!</h3>
+   <h4>Software Developer 👨🏻‍💻</h4>
+   <h4>Data Scientist 🤖</h4>
+   <h4>Economist 🪙</h4>
+</p>
 
 <!--
 **rafa3127/rafa3127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
