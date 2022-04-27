@@ -1,9 +1,9 @@
-<p align="center" width="300">
+<p align="center" width="300" border-radius="50%">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/81884585?v=4" />
-   <h3 align="center">Hi! 👋 I'm Rafael!</h3>
-   <h4>Software Developer 👨🏻‍💻</h4>
-   <h4>Data Scientist 🤖</h4>
-   <h4>Economist 🪙</h4>
+   <h2 align="center">Hi! 👋 I'm Rafael!</h2>
+   <h3>Software Developer 👨🏻‍💻</h3>
+   <h3>Data Scientist 🤖</h3>
+   <h3>Economist 🪙</h3>
 </p>
 
 <!--
