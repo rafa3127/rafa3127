@@ -9,7 +9,7 @@
 
 <h2> Profile: </h2>
 
- I have worked with JavaScript, Angular, React, NodeJS, Python applied to Data Science. I have participated in management and software development in Ecommerce, Fintech and IoT projects. Business Economist and Data Science Student. I am always willing to hear about new challenges that test my skills, help me develop new ones and stand out in innovation. I love working as a team and learning what each person has to give. Let's talk! you can contact me at my email rafaelc3127@gmail.com
+ I have worked with **JavaScript**, **Angular**, **React**,**NodeJS**, **Python** applied to Data Science. I have participated in management and software development in Ecommerce, Fintech and IoT projects. Business Economist and Data Science Student. I am always willing to hear about new challenges that test my skills, help me develop new ones and stand out in innovation. I love working as a team and learning what each person has to give. Let's talk! you can contact me at my email rafaelc3127@gmail.com
 
 
 <!--
