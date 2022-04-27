@@ -1,13 +1,13 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/81884585?v=4" />
    
-   <h2 align="center">Hi! 👋 I'm Rafael!</h2>
+   <h1 align="center">Hi! 👋 I'm Rafael!</h1>
 </p>
 <h3>Software Developer 👨🏻‍💻</h3>
 <h3>Data Scientist 🤖</h3>
 <h3>Economist 🪙</h3>
 
-### Profile
+<h2> Profile: </h2>
 
  I have worked with JavaScript, Angular, React, NodeJS, Python applied to Data Science. I have participated in management and software development in Ecommerce, Fintech and IoT projects. Business Economist and Data Science Student. I am always willing to hear about new challenges that test my skills, help me develop new ones and stand out in innovation. I love working as a team and learning what each person has to give. Let's talk! you can contact me at my email rafaelc3127@gmail.com
 
